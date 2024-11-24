@@ -2,9 +2,15 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Getway-servcie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zipkin-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sale-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-auth/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-candidat/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-formateur/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-formation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-sale/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-sale/src/main/resources" charset="UTF-8" />
   </component>
 </project>

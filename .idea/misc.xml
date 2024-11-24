@@ -8,10 +8,14 @@
         <option value="$PROJECT_DIR$/discovery-service/pom.xml" />
         <option value="$PROJECT_DIR$/Getway-servcie/pom.xml" />
         <option value="$PROJECT_DIR$/service-formateur/pom.xml" />
+        <option value="$PROJECT_DIR$/service-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/service-formation/pom.xml" />
+        <option value="$PROJECT_DIR$/service-sale/pom.xml" />
+        <option value="$PROJECT_DIR$/Zipkin-service/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="22" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

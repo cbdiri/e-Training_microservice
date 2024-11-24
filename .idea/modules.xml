@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Getway-servcie/Getway-servcie.iml" filepath="$PROJECT_DIR$/Getway-servcie/Getway-servcie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zipkin-service/Zipkin-service.iml" filepath="$PROJECT_DIR$/Zipkin-service/Zipkin-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/discovery-service/discovery-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-Training.iml" filepath="$PROJECT_DIR$/e-Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-auth/service-auth.iml" filepath="$PROJECT_DIR$/service-auth/service-auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-candidat/service-candidat.iml" filepath="$PROJECT_DIR$/service-candidat/service-candidat.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-formateur/service-formateur.iml" filepath="$PROJECT_DIR$/service-formateur/service-formateur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-formation/service-formation.iml" filepath="$PROJECT_DIR$/service-formation/service-formation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-sale/service-sale.iml" filepath="$PROJECT_DIR$/service-sale/service-sale.iml" />
     </modules>
   </component>
 </project>
